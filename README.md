@@ -106,7 +106,7 @@ Browser → Nginx → Laravel → MySQL
 
 ## 👨‍💻 Author
 
-Dikembangkan oleh: **MardekaLiterasi Team**
+Dikembangkan oleh: **Muhammad Kus Prasetyo**
 
 ---
 
