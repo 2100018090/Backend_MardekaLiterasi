@@ -121,6 +121,10 @@
       <excludeFolder url="file://$MODULE_DIR$/program/vendor/tijsverkoyen/css-to-inline-styles" />
       <excludeFolder url="file://$MODULE_DIR$/program/vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/program/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/program/storage/app" />
+      <excludeFolder url="file://$MODULE_DIR$/program/storage/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/program/vendor/prettus/l5-repository" />
+      <excludeFolder url="file://$MODULE_DIR$/program/vendor/prettus/laravel-validation" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

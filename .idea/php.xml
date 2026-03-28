@@ -119,6 +119,8 @@
       <path value="$PROJECT_DIR$/program/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/program/vendor/symfony/var-dumper" />
       <path value="$PROJECT_DIR$/program/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/program/vendor/prettus/laravel-validation" />
+      <path value="$PROJECT_DIR$/program/vendor/prettus/l5-repository" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2">
